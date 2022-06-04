@@ -37,3 +37,10 @@ button {
     background: darkgreen;
 }
 
+#save-el{
+    color: white;
+}
+
+#reset-btn{
+    color: black;
+}
